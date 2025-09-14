@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment 1: Python Tasks 
 
 # Description
@@ -48,3 +49,7 @@ Hello, Twinkle Poddar ! Welcome to the Python program.
 
 
 
+=======
+# PythonProject-2
+tuxedude python course assighments
+>>>>>>> 29901ccef71755455e50d14b9517d5a88cc29368
