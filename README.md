@@ -29,7 +29,7 @@ This repository contains two simple Python programs:
 
    cmd
    python TASK1.py
-   python TASK1.py
+   python TASK2.py
 
 PS C:\Users\tptwi> python C:\Users\tptwi\PycharmProjects\PythonProject-2\Task1.py
 ENTER FIRST NUMBER: 52
